@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: e3da41205b80c0a4c9e375d4eb84f0e6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5157876903828921681
+    second: Pixel_Flamer_Attack_0
+  - first:
+      213: 4221325256209353518
+    second: Pixel_Flamer_Attack_1
+  - first:
+      213: -6417320165652237383
+    second: Pixel_Flamer_Attack_2
+  - first:
+      213: -8244304343075741236
+    second: Pixel_Flamer_Attack_3
+  - first:
+      213: -4778916345205902447
+    second: Pixel_Flamer_Attack_4
+  - first:
+      213: -2522935591159523349
+    second: Pixel_Flamer_Attack_5
+  - first:
+      213: -2771106157396308422
+    second: Pixel_Flamer_Attack_6
+  - first:
+      213: 9001729097950746173
+    second: Pixel_Flamer_Attack_7
+  - first:
+      213: 7025565499255723819
+    second: Pixel_Flamer_Attack_8
+  - first:
+      213: -9094887175015957236
+    second: Pixel_Flamer_Attack_9
+  - first:
+      213: 6278407081987015292
+    second: Pixel_Flamer_Attack_10
+  - first:
+      213: 8789475811667655639
+    second: Pixel_Flamer_Attack_11
+  - first:
+      213: 310857976652103250
+    second: Pixel_Flamer_Attack_12
+  - first:
+      213: 8359757317101592051
+    second: Pixel_Flamer_Attack_13
+  - first:
+      213: 4954927301065011835
+    second: Pixel_Flamer_Attack_14
+  - first:
+      213: -1082609807673933200
+    second: Pixel_Flamer_Attack_15
+  - first:
+      213: 1969325185336623014
+    second: Pixel_Flamer_Attack_16
+  - first:
+      213: -8703717388268225809
+    second: Pixel_Flamer_Attack_17
+  - first:
+      213: -6463744626836267529
+    second: Pixel_Flamer_Attack_18
+  - first:
+      213: -8137003979277143616
+    second: Pixel_Flamer_Attack_19
+  - first:
+      213: -3881528937571324297
+    second: Pixel_Flamer_Attack_20
+  - first:
+      213: -2151094778724300541
+    second: Pixel_Flamer_Attack_21
+  - first:
+      213: 6997636823895234217
+    second: Pixel_Flamer_Attack_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pixel_Flamer_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 6
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d1ae767b5749740800000000000000
+      internalID: 5157876903828921681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Flamer_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 12
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b4eb974f8259a30800000000000000
+      internalID: 4221325256209353518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Flamer_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 25
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3f85c4f4911f6a0800000000000000
+      internalID: -6417320165652237383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Flamer_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 12
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1a2c251e8569d80800000000000000
+      internalID: -8244304343075741236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Flamer_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 23
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193b1b067e0edadb0800000000000000
+      internalID: -4778916345205902447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Flamer_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 12
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be71fb9627bbcfcd0800000000000000
+      internalID: -2522935591159523349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Flamer_Attack_6
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 23
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ece7db1ad0b89d0800000000000000
+      internalID: -2771106157396308422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Flamer_Attack_7
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 12
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36d6afdbe09cec70800000000000000
+      internalID: 9001729097950746173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Flamer_Attack_8
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 21
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2790693992df7160800000000000000
+      internalID: 7025565499255723819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Flamer_Attack_9
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 12
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0dfae41d4878c180800000000000000
+      internalID: -9094887175015957236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Flamer_Attack_10
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 13
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7202250af1612750800000000000000
+      internalID: 6278407081987015292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Flamer_Attack_11
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 12
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dbb65c9ead7af970800000000000000
+      internalID: 8789475811667655639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Flamer_Attack_12
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 14
+        width: 71
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ef1f9cea3605400800000000000000
+      internalID: 310857976652103250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Flamer_Attack_13
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 12
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd105eecf2d30470800000000000000
+      internalID: 8359757317101592051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Flamer_Attack_14
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 14
+        width: 71
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b727dd3c02073c440800000000000000
+      internalID: 4954927301065011835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Flamer_Attack_15
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 14
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072cd37ad1cc9f0f0800000000000000
+      internalID: -1082609807673933200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Flamer_Attack_16
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 15
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af383772d2745b10800000000000000
+      internalID: 1969325185336623014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Flamer_Attack_17
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 12
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feab1ee462f263780800000000000000
+      internalID: -8703717388268225809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Flamer_Attack_18
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 13
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd959e128a2c46a0800000000000000
+      internalID: -6463744626836267529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Flamer_Attack_19
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 12
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1fe371efd831f80800000000000000
+      internalID: -8137003979277143616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Flamer_Attack_20
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 15
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e69aa1ff9022ac0800000000000000
+      internalID: -3881528937571324297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Flamer_Attack_21
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 12
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309c0fb12b6c522e0800000000000000
+      internalID: -2151094778724300541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Flamer_Attack_22
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 19
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6d773cd999c1160800000000000000
+      internalID: 6997636823895234217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b8eb054245f794bb2ab924c2faf88f5c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pixel_Flamer_Attack_0: 5157876903828921681
+      Pixel_Flamer_Attack_1: 4221325256209353518
+      Pixel_Flamer_Attack_10: 6278407081987015292
+      Pixel_Flamer_Attack_11: 8789475811667655639
+      Pixel_Flamer_Attack_12: 310857976652103250
+      Pixel_Flamer_Attack_13: 8359757317101592051
+      Pixel_Flamer_Attack_14: 4954927301065011835
+      Pixel_Flamer_Attack_15: -1082609807673933200
+      Pixel_Flamer_Attack_16: 1969325185336623014
+      Pixel_Flamer_Attack_17: -8703717388268225809
+      Pixel_Flamer_Attack_18: -6463744626836267529
+      Pixel_Flamer_Attack_19: -8137003979277143616
+      Pixel_Flamer_Attack_2: -6417320165652237383
+      Pixel_Flamer_Attack_20: -3881528937571324297
+      Pixel_Flamer_Attack_21: -2151094778724300541
+      Pixel_Flamer_Attack_22: 6997636823895234217
+      Pixel_Flamer_Attack_3: -8244304343075741236
+      Pixel_Flamer_Attack_4: -4778916345205902447
+      Pixel_Flamer_Attack_5: -2522935591159523349
+      Pixel_Flamer_Attack_6: -2771106157396308422
+      Pixel_Flamer_Attack_7: 9001729097950746173
+      Pixel_Flamer_Attack_8: 7025565499255723819
+      Pixel_Flamer_Attack_9: -9094887175015957236
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
